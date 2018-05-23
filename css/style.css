@@ -1,0 +1,23 @@
+html, body {
+	padding: 0;
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #ddd;
+	padding: 50px;
+}
+
+canvas {	
+	width: 1024px;
+    height: 540px;
+    box-sizing: border-box;
+    display: block;
+    background: black;
+    margin: 0px auto;
+    border-radius: 10px;
+}
